@@ -1,4 +1,7 @@
-This is the First page of my website.
-This is the home page.
+This 
+is the First page of my website.
+This 
+is my home and 
+my home page is.
 This is should be displayed on the first browsing.
 Bye!!
