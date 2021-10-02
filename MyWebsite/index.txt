@@ -4,6 +4,12 @@ This
 is edited in master before merge
 and This is my home and 
 my home page is.
+Hi
 This is should be displayed on the first browsing.
+<<<<<<< HEAD
 Bye!!
 Bye!!!
+=======
+Before 
+Bye do Bye Bye!!
+>>>>>>> branch1
