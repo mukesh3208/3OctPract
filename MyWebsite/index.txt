@@ -3,5 +3,7 @@ is the First page of my website.
 This 
 is my home and 
 my home page is.
+Hi
 This is should be displayed on the first browsing.
-Bye!!
+Before 
+Bye do Bye Bye!!
